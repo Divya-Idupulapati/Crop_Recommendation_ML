@@ -1,11 +1,11 @@
 
-# 🌾 Crop Recommendation System Using Machine Learning
+# Crop Recommendation System Using Machine Learning
 
 An end-to-end machine learning project designed to help farmers and agricultural planners select the most suitable crop based on environmental and soil parameters. This system leverages predictive modeling to enhance decision-making, optimize crop yield, and promote sustainable agriculture practices.
 
 ---
 
-## 🗂️ Table of Contents
+## Table of Contents
 
 * [Project Overview](#project-overview)
 * [Problem Statement](#problem-statement)
@@ -19,19 +19,19 @@ An end-to-end machine learning project designed to help farmers and agricultural
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 In a country like India where agriculture is a primary livelihood, choosing the right crop based on regional conditions is critical. This ML-driven crop recommendation system uses historical and environmental data to predict the most suitable crop for given conditions, ultimately aiming to improve yield, reduce losses, and empower farmers with data-backed decisions.
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 Traditional farming decisions are often based on experience or outdated methods. There’s a pressing need for a smart, scalable, and data-driven system to recommend crops based on dynamic soil and climatic parameters like nitrogen, phosphorus, potassium, temperature, humidity, pH, and rainfall.
 
 ---
 
-## 🎯 Key Objectives
+## Key Objectives
 
 * Predict the best crop to grow in a given region
 * Compare multiple machine learning algorithms for accuracy
@@ -40,7 +40,7 @@ Traditional farming decisions are often based on experience or outdated methods.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool               | Purpose                                |
 | ------------------ | -------------------------------------- |
@@ -52,7 +52,7 @@ Traditional farming decisions are often based on experience or outdated methods.
 
 ---
 
-## 🔄 Machine Learning Workflow
+## Machine Learning Workflow
 
 1. **Data Collection**
    Aggregated data containing soil nutrients and weather conditions.
@@ -72,7 +72,7 @@ Traditional farming decisions are often based on experience or outdated methods.
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * **Top Features**: Humidity and rainfall were the most influential features in crop prediction.
 * **Model Performance**:
@@ -83,7 +83,7 @@ Traditional farming decisions are often based on experience or outdated methods.
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 * Integrate this model into regional agricultural platforms
 * Use live data (via IoT sensors) for real-time crop suggestions
@@ -92,7 +92,7 @@ Traditional farming decisions are often based on experience or outdated methods.
 
 ---
 
-## 📈 Impact of This Analysis
+## Impact of This Analysis
 
 This system can:
 
@@ -103,7 +103,7 @@ This system can:
 
 ---
 
-## 👩‍💻 Authors
+## Authors
 
 * **Ramachandra A. C** – Nitte Meenakshi Institute of Technology
 * **Garre Venkata Ankitha** – Nitte Meenakshi Institute of Technology
@@ -113,7 +113,7 @@ This system can:
 
 ---
 
-## 📇 Contact
+## Contact
 
 **Divya Idupulapati**
 

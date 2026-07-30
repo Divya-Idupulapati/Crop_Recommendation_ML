@@ -3,6 +3,7 @@
 An end-to-end machine learning project designed to help farmers and agricultural planners select the most suitable crop based on environmental and soil parameters. This system leverages predictive modeling to enhance decision-making, optimize crop yield, and promote sustainable agriculture practices.
 
 ---
+
 ## Table of Contents
 
 * [Project Overview](#project-overview)
